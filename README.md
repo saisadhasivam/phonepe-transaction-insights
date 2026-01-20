@@ -8,7 +8,7 @@
 
 This project delivers a comprehensive, end-to-end analytical study of **PhonePe Pulse transactional data**, with the objective of extracting actionable business insights across **transactions, user adoption, regional performance, and insurance growth** in India.
 
-The work follows a structured analytics lifecycle — from raw data extraction and database design to analysis, visualization, and business interpretation — culminating in a **Streamlit-based executive dashboard**.
+The work follows a structured analytics lifecycle from raw data extraction and database design to analysis, visualization, and business interpretation — culminating in a **Streamlit-based executive dashboard**.
 
 This repository is designed to reflect **industry-grade analytical standards**, emphasizing clarity, reproducibility, scalability, and decision-oriented insights.
 
@@ -215,5 +215,5 @@ It is structured to be **auditable, extensible, and presentation-ready**, making
 
 ---
 
-**Author**: Sai
+**Author**: Sai Sadhasivam
 **Domain**: Data Analytics | Digital Payments | Business Intelligence
