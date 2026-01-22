@@ -218,7 +218,7 @@ streamlit run streamlit_app/app.py
 
 ## 11. Conclusion
 
-This project demonstrates a **full analytics lifecycle** — from raw data to executive insight — following industry best practices.
+This project demonstrates a **full analytics lifecycle** - from raw data to executive insight - following industry best practices.
 It is structured to be **auditable, extensible, and presentation-ready**, making it suitable for real-world analytics and decision support scenarios.
 
 ---
